@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **paul.senecal@efrei.net**
 
-- 📄 Know about my experiences [DevOps at Headox/SOS Oxygen](DevOps at Headox/SOS Oxygen)
-
+- 📄 Know about my experiences [DevOps at Headox/SOS Oxygen]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
