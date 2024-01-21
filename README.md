@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsenecal&label=Profile%20views&color=ffea00&style=flat" alt="paulsenecal" /> </p>
 
-- 🔭 I’m currently working on [RegimentRoomManager](https://github.com/PaulSenecal/RegimentRoomManager)
+- 🏨 I’m currently working on [RegimentRoomManager](https://github.com/PaulSenecal/RegimentRoomManager)
 
-- 👯 I’m currently working on [CarDashBoard](https://github.com/PaulSenecal/CarDashBoard)
+- 🚗 I’m currently working on [CarDashBoard](https://github.com/PaulSenecal/CarDashBoard)
 
-- 🤝 I’m currently working on [Together](https://github.com/PaulSenecal/Together)
+- 🚧 I’m currently working on [Together](https://github.com/PaulSenecal/Together)
 
-- 🚧 I’m currently working on [Stargate-beyond-the-universe](https://github.com/PaulSenecal/Stargate-beyond-the-universe)
+- 👾 I’m currently working on [Stargate-beyond-the-universe](https://github.com/PaulSenecal/Stargate-beyond-the-universe)
 
 - 📫 How to reach me **paul.senecal@efrei.net**
 
