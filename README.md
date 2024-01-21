@@ -10,7 +10,7 @@
 
 - 🤝 I’m currently working on [Together](https://github.com/PaulSenecal/Together)
 
-- 🚧 I’m currently working on [Stargate-beyond-the-universe](https://github.com/PaulSenecal/Stargate-beyond-the-universe))
+- 🚧 I’m currently working on [Stargate-beyond-the-universe](https://github.com/PaulSenecal/Stargate-beyond-the-universe)
 
 - 📫 How to reach me **paul.senecal@efrei.net**
 
