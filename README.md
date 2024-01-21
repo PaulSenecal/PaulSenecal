@@ -10,9 +10,11 @@
 
 - 🤝 I’m currently working on [Together](https://github.com/PaulSenecal/Together)
 
+- 🚧 I’m currently working on [Stargate-beyond-the-universe](https://github.com/PaulSenecal/Stargate-beyond-the-universe))
+
 - 📫 How to reach me **paul.senecal@efrei.net**
 
-- 📄 Know about my experiences [DevOps at Headox/SOS Oxygen]
+- 📄 Know about my experiences [DevOps at Headox/SOS Oxygen](https://www.sosoxygene.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
