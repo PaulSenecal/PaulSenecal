@@ -10,7 +10,7 @@
 
 - 🚧 I’m currently working on [Together](https://github.com/PaulSenecal/Together)
 
-- 👾 I Finished My Launcher [Gamelauncher](https://github.com/PaulSenecal/AppLauncher))
+- 👾 I Finished My Launcher [Gamelauncher](https://github.com/PaulSenecal/AppLauncher)
 
 - 📫 How to reach me **paul.senecal@efrei.net**
 
